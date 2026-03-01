@@ -20,3 +20,11 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,r,mysql,html,css,js,react,nodejs,opencv" />
 </p>
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=divyanshi0226&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=divyanshi0226&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshi0226&layout=compact&theme=radical)
