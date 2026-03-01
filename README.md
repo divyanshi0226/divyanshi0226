@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyanshi</h1>
-<h3 align="center">Building AI-powered systems & solving real-world problems</h3>
+<h3 align="center">Debugging life one model at a time.</h3>
 
 ---
 
-- 🌱 I’m currently learning **Machine Learning & Computer Vision**
+- 🌱 I’m currently learning **Machine Learning and Computer Vision**
 - 💻 I build AI + Full Stack projects
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🛠 Languages & Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,r,mysql,html,css,js,react,nodejs,opencv" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,r,mysql,mongodb,html,css,js,react,nodejs,opencv" />
 </p>
 
 ### 📊 GitHub Stats
