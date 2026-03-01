@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divyanshi</h1>
-<h3 align="center">Debugging life one model at a time.</h3>
+<h1 align="left">About Me:</h1>
+<h3 align="left">Hi! I'm Divyanshi a Computer Engineering Student! Excited to apply my skills in real world problems.</h3>
 
 ---
 
